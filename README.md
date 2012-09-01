@@ -1,4 +1,4 @@
-founders-list-plugin
+Founders List Plugin
 ====================
 
 The WordPress plugin for Founders List.
